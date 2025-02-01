@@ -1,1 +1,1 @@
-# CursoJavaSU
+# CursoJava
