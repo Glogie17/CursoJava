@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Alumno
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Alumno\ here.\r\n\ \r\n\ @author\ Angie\ Tello\r\n\ @version\ 1.0\r\n
+comment1.params=cod\ ape\ nom\ a\u00F1o_est
+comment1.target=void\ registrarAlumno(int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ obtenerA\u00F1oEstudios()
+comment3.params=
+comment3.target=void\ mostrarCarnet()
+numComments=4
