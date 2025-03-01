@@ -12,7 +12,7 @@ public class ProductoFerreteria extends Producto {
     private String material;
     
 
-    public ProductoFerreteria(String nombre, double precio,String uso) {
+    public ProductoFerreteria(String nombre, double precio,String material) {
         super(nombre, precio);
         this.material = material;
         
